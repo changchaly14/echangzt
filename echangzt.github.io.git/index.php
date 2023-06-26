@@ -7,7 +7,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Marble &mdash; Free HTML5 Bootstrap Website Template by FreeHTML5.co</title>
+	<title>EChangZT | อีช้าง สตูดิโอ - รับผลิตโฆษณาและสื่อวีดีโอทุกชนิด</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Website Template by FreeHTML5.co" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
@@ -80,16 +80,10 @@
 					<li><a href="contact.html">ติดต่องาน</a></li>
 				</ul>
 			</nav>
-
+			
 			<div class="fh5co-footer">
-				<p><small>&copy; 2016 Blend Free HTML5. All Rights Reserved.</span> <span>Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> </span> <span>Demo Images: <a href="https://unsplash.com/" target="_blank">Unsplash</a></span></small></p>
-				<ul>
-					<li><a href="#"><i class="icon-facebook2"></i></a></li>
-					<li><a href="#"><i class="icon-twitter2"></i></a></li>
-					<li><a href="#"><i class="icon-instagram"></i></a></li>
-					<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-				</ul>
-			</div>
+				<?php include('social.php'); ?>
+			</div> 
 
 		</aside>
 
@@ -103,8 +97,8 @@
 				   			<div class="row">
 					   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
 					   				<div class="slider-text-inner">
-					   					<h1>Music logo By : <a href="https://www.facebook.com/echangzt" target="_blank">EChangZT</a></h1>
-					   					<!-- <h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2> -->
+					   					<h1>EChangZT | อีช้าง สตูดิโอ</h1>
+					   					<h2>รับผลิตโฆษณาและสื่อวีดีโอทุกชนิด : <a href="https://www.facebook.com/echangzt" target="_blank">EChangZT</a></h2> 
 											<p><a class="btn btn-primary btn-demo popup-vimeo" href="https://www.youtube.com/channel/UCYkrFTd_iS_ve2szMHlqyJA"> <i class="icon-monitor"></i> Youtube</a> <a class="btn btn-primary btn-learn" href="https://www.facebook.com/echangzt">Facebook<i class="icon-arrow-right3"></i></a></p>
 					   				</div>
 					   			</div>

@@ -7,7 +7,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Marble &mdash; Free HTML5 Bootstrap Website Template by FreeHTML5.co</title>
+	<title>EChangZT | อีช้าง สตูดิโอ - รับผลิตโฆษณาและสื่อวีดีโอทุกชนิด</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Website Template by FreeHTML5.co" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
@@ -195,7 +195,7 @@
 				</div>
 			</div>
 		
-			<div class="fh5co-narrow-content">
+			<!-- <div class="fh5co-narrow-content">
 				<div class="row">
 					<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 						<h1 class="fh5co-heading-colored">Get in touch</h1>
@@ -208,7 +208,7 @@
 					</div>
 					
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 

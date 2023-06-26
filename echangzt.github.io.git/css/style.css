@@ -374,7 +374,7 @@ figure figcaption {
   font-size: 45px;
   line-height: 1.3;
   font-weight: 100;
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: 'Pridi', serif;
 }
 @media screen and (max-width: 768px) {
   #fh5co-hero .flexslider .slider-text > .slider-text-inner h1 {
